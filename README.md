@@ -2,8 +2,8 @@
 This is a repo for color correction of images using machine learning. The code uses opencv to detect and extract values from the color patches in the image. The extracted values and the reference values are then used to train a ML partial least square [PLS-2](https://scikit-learn.org/stable/modules/generated/sklearn.cross_decomposition.PLSRegression.html) model to predict the color correction values in a new image. This repo is built upon the work of [Navarasu](https://blog.francium.tech/using-machine-learning-for-color-calibration-with-a-color-checker-d9f0895eafdb).
 
 ## Requirements ##
-* Python 3.9
-* OpenCV 4.5.1
+* Python => 3.9
+* OpenCV
 * Scikit-learn
 * Numpy
 * Matplotlib
