@@ -26,16 +26,14 @@ The backbone of the code is the `ColorCorrection` class in the `color_correction
   * *The Reference values are taken from the [xrite](https://xritephoto.com/documents/literature/en/ColorData-1p_EN.pdf) and [babel](https://babelcolor.com/index_htm_files/RGB%20Coordinates%20of%20the%20Macbeth%20ColorChecker.pdf) color charts. The values are in the sRGB color space.*
 
 ## Results ##
-### Orignial Image ###
 ![Alt text](readme_images/Original.png)
 
-### Corrected Image ###
 ![Alt text](readme_images/Corrected.png)
 
 ### Reference vs Original vs Predicted color values ###
 ![Alt text](readme_images/model_plot.png)
 
-## Images Before and After ###
+## Images Before and After Correction ###
 ![Alt text](readme_images/before_vs_after.png)
 
 
