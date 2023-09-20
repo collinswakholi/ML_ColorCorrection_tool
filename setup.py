@@ -16,7 +16,7 @@ setup(
     long_description=long_descr_,
     long_description_content_type='text/markdown',
     author='Collins Wakholi',
-    url="https://github.com/CollinsWakholi/ColorCorrectionML",
+    url="https://github.com/collinswakholi/ML_ColorCorrection_tool",
     packages=find_packages(),
     install_requires=requirements,
     classifiers=[
