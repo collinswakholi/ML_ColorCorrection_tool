@@ -6,7 +6,7 @@ with open('README.md', encoding='utf-8') as f:
 with open('requirements.txt', 'r') as f:
     requirements = f.readlines()
     
-name_ = 'ColorCorrectionML'
+name_ = 'colorcorrectionML'
 decr_ = 'Do color correction of images using machine learning.'
 
 setup(
