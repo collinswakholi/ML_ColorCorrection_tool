@@ -4,12 +4,12 @@ ColorCorrectionML is a Python package for color correction of images using machi
 
 ## Installation
 ```shell
-pip install colorcorrectionml
+pip install colorcorrectionML
 ```
 
 ## Usage
 ```python
-from colorcorrectionml import ColorCorrectionML
+from ColorCorrectionML import ColorCorrectionML
 import cv2
 
 img = cv2.imread('Images/img2.png')
@@ -53,6 +53,6 @@ Color correction results
 ## TODO
 1. Add other reference color values (D55, D65, D70, D75)
 2. Add other color charts (ColorChecker24, ColorCheckerSG, ColorCheckerDC)
-3. Add other color spaces (CIELab, CIELuv, CIELCH, CIELCHuv, CIECAM02, etc.)
+3. Add other color spaces (CIELab, XYZ, etc.)
 4. Add other regression methods (Ridge, Lasso, ElasticNet, etc.)
 5. Refine the white balance methods
