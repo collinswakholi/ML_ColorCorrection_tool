@@ -11,7 +11,7 @@ decr_ = 'Do color correction of images using machine learning.'
 
 setup(
     name=name_,
-    version='0.0.2',
+    version='0.0.2.1',
     description=decr_,
     long_description=long_descr_,
     long_description_content_type='text/markdown',
