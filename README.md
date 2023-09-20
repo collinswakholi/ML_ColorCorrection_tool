@@ -1,6 +1,6 @@
 # ColorCorrectionML
 
-ColorCorrectionML is a Python package for color correction of images using machine learning. It uses ML regression methods (linear, least sqaure, and partial least squares regression) to learn the color correction function from a training image with a color checker. The learned function is then applied to correct the color of a test image.
+ColorCorrectionML is a Python package for color correction of *sRGB* images using machine learning. It uses ML regression methods (linear, least sqaure, and partial least squares regression) to learn the color correction function from a training image with a color checker. The learned function is then applied to correct the color of a test image.
 
 ## Installation
 ```shell
