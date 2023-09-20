@@ -1,4 +1,7 @@
-opencv-python
+scikit-learn
 numpy
 matplotlib
-scikit-learn
+opencv-python
+networkx
+colour-science
+dask
