@@ -52,6 +52,10 @@ Color correction results
 
 
 ## Acknowledgemnts
-I am gratefully acknowledge [Devin Rippner](mailto:devin.rippner@usda.gov), [ORISE](https://orise.orau.gov/index.html), and the [USDA](https://www.usda.gov/) for their invaluable assistance and funding support in the development of this Repo. This project would not have been possible without their guidance and opportunities provided.
+I gratefully acknowledge [Devin Rippner](mailto:devin.rippner@usda.gov), [ORISE](https://orise.orau.gov/index.html), and the [USDA](https://www.usda.gov/) for their invaluable assistance and funding support in the development of this Repo. This project would not have been possible without their guidance and opportunities provided.
+
+
+# NOTE
+For our most recent, better color correction package, try the new [ColorCorrectionPackage](https://github.com/collinswakholi/ColorCorrectionPackage).
 
 
